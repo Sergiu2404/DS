@@ -1,0 +1,5 @@
+﻿  DynamicArray.cpp
+  main.cpp
+C:\Algorithms\data_structures\DynamicArray\DynamicArray\main.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  DynamicArray.vcxproj -> C:\Algorithms\data_structures\DynamicArray\x64\Debug\DynamicArray.exe
