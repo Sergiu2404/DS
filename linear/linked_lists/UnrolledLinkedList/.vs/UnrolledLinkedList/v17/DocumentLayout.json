@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DataStructures\\linear\\linked_lists\\UnrolledLinkedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFEFCB0-18B6-4C2C-A496-B4274EC76E46}|UnrolledLinkedList\\UnrolledLinkedList.vcxproj|E:\\DataStructures\\linear\\linked_lists\\UnrolledLinkedList\\UnrolledLinkedList\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EFEFCB0-18B6-4C2C-A496-B4274EC76E46}|UnrolledLinkedList\\UnrolledLinkedList.vcxproj|solutionrelative:UnrolledLinkedList\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFEFCB0-18B6-4C2C-A496-B4274EC76E46}|UnrolledLinkedList\\UnrolledLinkedList.vcxproj|E:\\DataStructures\\linear\\linked_lists\\UnrolledLinkedList\\UnrolledLinkedList\\UnrolledLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EFEFCB0-18B6-4C2C-A496-B4274EC76E46}|UnrolledLinkedList\\UnrolledLinkedList.vcxproj|solutionrelative:UnrolledLinkedList\\UnrolledLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFEFCB0-18B6-4C2C-A496-B4274EC76E46}|UnrolledLinkedList\\UnrolledLinkedList.vcxproj|E:\\DataStructures\\linear\\linked_lists\\UnrolledLinkedList\\UnrolledLinkedList\\UnrolledLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EFEFCB0-18B6-4C2C-A496-B4274EC76E46}|UnrolledLinkedList\\UnrolledLinkedList.vcxproj|solutionrelative:UnrolledLinkedList\\UnrolledLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnrolledLinkedList.cpp",
+              "DocumentMoniker": "E:\\DataStructures\\linear\\linked_lists\\UnrolledLinkedList\\UnrolledLinkedList\\UnrolledLinkedList.cpp",
+              "RelativeDocumentMoniker": "UnrolledLinkedList\\UnrolledLinkedList.cpp",
+              "ToolTip": "E:\\DataStructures\\linear\\linked_lists\\UnrolledLinkedList\\UnrolledLinkedList\\UnrolledLinkedList.cpp",
+              "RelativeToolTip": "UnrolledLinkedList\\UnrolledLinkedList.cpp",
+              "ViewState": "AgIAANUAAAAAAAAAAAAAAKUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T09:44:22.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\DataStructures\\linear\\linked_lists\\UnrolledLinkedList\\UnrolledLinkedList\\main.cpp",
+              "RelativeDocumentMoniker": "UnrolledLinkedList\\main.cpp",
+              "ToolTip": "E:\\DataStructures\\linear\\linked_lists\\UnrolledLinkedList\\UnrolledLinkedList\\main.cpp",
+              "RelativeToolTip": "UnrolledLinkedList\\main.cpp",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T09:44:13.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnrolledLinkedList.h",
+              "DocumentMoniker": "E:\\DataStructures\\linear\\linked_lists\\UnrolledLinkedList\\UnrolledLinkedList\\UnrolledLinkedList.h",
+              "RelativeDocumentMoniker": "UnrolledLinkedList\\UnrolledLinkedList.h",
+              "ToolTip": "E:\\DataStructures\\linear\\linked_lists\\UnrolledLinkedList\\UnrolledLinkedList\\UnrolledLinkedList.h",
+              "RelativeToolTip": "UnrolledLinkedList\\UnrolledLinkedList.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-12T10:25:49.283Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
