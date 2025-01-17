@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DataStructures\\non-linear\\tries\\Trie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6F661A-3778-4AE1-BD06-97F8DE68F3B0}|Trie\\Trie.vcxproj|E:\\DataStructures\\non-linear\\tries\\Trie\\Trie\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D6F661A-3778-4AE1-BD06-97F8DE68F3B0}|Trie\\Trie.vcxproj|solutionrelative:Trie\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6F661A-3778-4AE1-BD06-97F8DE68F3B0}|Trie\\Trie.vcxproj|E:\\DataStructures\\non-linear\\tries\\Trie\\Trie\\Trie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D6F661A-3778-4AE1-BD06-97F8DE68F3B0}|Trie\\Trie.vcxproj|solutionrelative:Trie\\Trie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6F661A-3778-4AE1-BD06-97F8DE68F3B0}|Trie\\Trie.vcxproj|E:\\DataStructures\\non-linear\\tries\\Trie\\Trie\\Trie.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D6F661A-3778-4AE1-BD06-97F8DE68F3B0}|Trie\\Trie.vcxproj|solutionrelative:Trie\\Trie.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "E:\\DataStructures\\non-linear\\tries\\Trie\\Trie\\main.c",
+              "RelativeDocumentMoniker": "Trie\\main.c",
+              "ToolTip": "E:\\DataStructures\\non-linear\\tries\\Trie\\Trie\\main.c",
+              "RelativeToolTip": "Trie\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-17T10:15:09.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Trie.c",
+              "DocumentMoniker": "E:\\DataStructures\\non-linear\\tries\\Trie\\Trie\\Trie.c",
+              "RelativeDocumentMoniker": "Trie\\Trie.c",
+              "ToolTip": "E:\\DataStructures\\non-linear\\tries\\Trie\\Trie\\Trie.c",
+              "RelativeToolTip": "Trie\\Trie.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-17T10:15:04.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trie.h",
+              "DocumentMoniker": "E:\\DataStructures\\non-linear\\tries\\Trie\\Trie\\Trie.h",
+              "RelativeDocumentMoniker": "Trie\\Trie.h",
+              "ToolTip": "E:\\DataStructures\\non-linear\\tries\\Trie\\Trie\\Trie.h",
+              "RelativeToolTip": "Trie\\Trie.h",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-17T10:14:59.261Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

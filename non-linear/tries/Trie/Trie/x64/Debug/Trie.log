@@ -1,0 +1,6 @@
+﻿  main.c
+  Trie.c
+E:\DataStructures\non-linear\tries\Trie\Trie\main.c(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\DataStructures\non-linear\tries\Trie\Trie\Trie.c(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Trie.vcxproj -> E:\DataStructures\non-linear\tries\Trie\x64\Debug\Trie.exe
